@@ -1,5 +1,4 @@
-https://ninags.github.io/Primer_Proyecto_Final/.
-
+https://ninags.github.io/SegundoEntregable/
 
 # Página Web de Vida Sana en la comuna
 
